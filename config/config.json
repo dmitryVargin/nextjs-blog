@@ -1,0 +1,13 @@
+{
+  "site": {
+    "title": "Some amazing blog",
+    "base_url": "/",
+    "logo": "/images/logo.png",
+    "logo_width": "128",
+    "logo_height": "90"
+  },
+  "metadata": {
+    "meta_author": "Some great author",
+    "meta_description": "Some description"
+  }
+}

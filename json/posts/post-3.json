@@ -1,0 +1,10 @@
+{
+  "frontmatter": {
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "description": "meta description",
+    "date": "2023-04-04T00:00:00.000Z",
+    "image": "/images/posts/03.jpg"
+  },
+  "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium beatae culpa, delectus et id ipsum molestiae nihil nulla, placeat quis recusandae, sequi temporibus ut veniam veritatis. Adipisci assumenda cumque dignissimos dolores, earum eius eveniet harum id in libero minima nemo nobis non obcaecati possimus praesentium quae quaerat qui repellendus sapiente sit voluptas voluptate? Atque dolor doloribus enim explicabo iusto laborum libero, maiores minus nam nemo non nostrum, quasi quidem quis rem reprehenderit sed sint sit totam voluptatibus! Commodi consequuntur cum ex fuga molestiae nulla officia, officiis omnis qui quibusdam, quidem quo reprehenderit sint veniam voluptate! Dolores eos hic labore nisi.",
+  "slug": "post-3"
+}
